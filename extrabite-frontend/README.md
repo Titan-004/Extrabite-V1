@@ -1,6 +1,6 @@
 # 🍽️ ExtraBite: Save Food, Feed Lives
 
-[Live Site](https://extrabite.vercel.app) • [Swagger Docs](https://extrabite-backend-2.onrender.com/swagger-ui) • [API Docs (Postman)](https://documenter.getpostman.com/view/30078893/2sA35KXuta) • [GitHub Repo](https://github.com/AlokMaurya0/FoodDonationPlatform)
+[Live Site](https://extrabite.vercel.app) • [Swagger Docs](https://extrabite-backend-2.onrender.com/swagger-ui) • [API Docs (Postman)](https://documenter.getpostman.com/view/30078893/2sA35KXuta) • [GitHub Repo](https://github.com/Titan-004/Extrabite-V1)
 
 **ExtraBite** is a full-stack web platform that connects food donors with receivers (NGOs or individuals) to reduce food wastage and hunger. Whether you're a household, restaurant, or organization, ExtraBite makes it easy to donate leftover food — and even easier for those in need to find it, request it, and collect it.
 
@@ -125,7 +125,6 @@ npm run preview
 - Spring Security with JWT
 - Swagger OpenAPI Documentation
 - Docker + Render for hosting
-- Github Repo Link: https://github.com/alokmaurya22/extrabite-backend-2
 
 ---
 
@@ -203,16 +202,6 @@ Got suggestions or feature ideas? Raise an issue or contribute a fix.
 
 This project is open for **educational and humanitarian purposes**.  
 For licensing or partnership, reach out below.
-
----
-
-## 👨‍💻 Developer Info
-
-- 📧 Email: [er.alokmaurya22@gmail.com](mailto:er.alokmaurya22@gmail.com)
-- 🌐 Website: [https://alokdata.netlify.app](https://alokdata.netlify.app)
-- 💼 LinkedIn: [https://linkedin.com/in/alok22](https://linkedin.com/in/alok22)
-- 💻 GitHub Frontend: [https://github.com/alokmaurya22](https://github.com/alokmaurya22/extrabite-frontend)
-- 💻 GitHub Backend: [https://github.com/alokmaurya22](https://github.com/alokmaurya22/extrabite-backend-2)
 
 ---
 
