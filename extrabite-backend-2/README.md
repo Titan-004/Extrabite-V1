@@ -208,16 +208,6 @@ For licensing or partnership, reach out below.
 
 ---
 
-## 👨‍💻 Developer Info
-
-- 📧 Email: [er.alokmaurya22@gmail.com](mailto:er.alokmaurya22@gmail.com)
-- 🌐 Website: [https://alokdata.netlify.app](https://alokdata.netlify.app)
-- 💼 LinkedIn: [https://linkedin.com/in/alok22](https://linkedin.com/in/alok22)
-- 💻 GitHub Frontend: [https://github.com/alokmaurya22](https://github.com/alokmaurya22/extrabite-frontend)
-- 💻 GitHub Backend: [https://github.com/alokmaurya22](https://github.com/alokmaurya22/extrabite-backend-2)
-
----
-
 ## 💚 Join ExtraBite — Empower Change, Transform Lives!
 
 Helping one person is enough to make it meaningful.
